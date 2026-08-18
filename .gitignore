@@ -1,0 +1,14 @@
+# Project place file
+/Roblox-tycoon.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+# Selene generated Roblox standard library
+roblox.yml
+
+# Rokit tool binaries
+.rokit/
